@@ -43,5 +43,5 @@ This project is an AI-powered music player that detects emotions from voice inpu
 
 
 ## Contact
-For any queries, reach out to: [123koushiksiddu123@gmail.com]
+For any queries, reach out to: 123koushiksiddu123@gmail.com
 
