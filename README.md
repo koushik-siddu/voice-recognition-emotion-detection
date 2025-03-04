@@ -41,15 +41,7 @@ This project is an AI-powered music player that detects emotions from voice inpu
 - Speak into the microphone, and the system will analyze your mood.
 - The corresponding playlist will be played automatically based on detected emotions.
 
-## Dataset
-- Uses publicly available **speech emotion datasets** such as **RAVDESS, TESS, or custom-labeled datasets**.
-
-## Contributing
-Contributions are welcome! Feel free to submit issues or pull requests to improve the project.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any queries, reach out to: [your-email@example.com]
+For any queries, reach out to: [123koushiksiddu123@gmail.com]
 
